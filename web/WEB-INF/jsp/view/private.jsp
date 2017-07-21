@@ -116,7 +116,11 @@
 	<footer class="footer">
 	<div class="container">
 		<p class="text-muted">Designed and built with all the love in the
+<<<<<<< HEAD
 			world by Karthik</p>
+=======
+			world by Karthik, Dean & Neha.</p>
+>>>>>>> 8a4fcdf96ff6a1d5eec4edd69bade79591d53e58
 	</div>
 	</footer>
 </body>

@@ -122,7 +122,11 @@
       
        <footer class="footer">
       <div class="container">
+<<<<<<< HEAD
         <p class="text-muted">Designed and built with all the love in the world by Karthik</p>
+=======
+        <p class="text-muted">Designed and built with all the love in the world by Karthik, Dean & Neha.</p>
+>>>>>>> 8a4fcdf96ff6a1d5eec4edd69bade79591d53e58
       </div>
     </footer>
    </body>
